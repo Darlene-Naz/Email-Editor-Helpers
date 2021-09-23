@@ -367,10 +367,10 @@ ol li {
 .es-wrapper-color {
     background-color: rgb(48, 55, 66);
 /*     background-image: linear-gradient( 45deg, rgb(59, 68, 80) 25%, transparent 25%), linear-gradient( -45deg, rgb(59, 68, 80) 25%, transparent 25%), linear-gradient( 45deg, transparent 75%, rgb(59, 68, 80) 75%), linear-gradient( -45deg, transparent 75%, rgb(59, 68, 80) 75%); */
-    background-size: 20px 20px;
+/*     background-size: 20px 20px;
     background-position: 0px 0px, 0px 10px, 10px -10px, -10px 0px;
-    transition: right 0.3s ease 0s;
-    overflow: scroll;
+    transition: right 0.3s ease 0s; */
+/*     overflow: scroll; */
 }
 
 .es-content-body {
